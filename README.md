@@ -11,6 +11,6 @@ Features:
 - Search for saved credentials by website name
 - Auto-copies generated password to clipboard
 
-How to run
+How to run:
 1. Install dependencies: pip install pyperclip
 2. Run main.py
